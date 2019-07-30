@@ -1,0 +1,3284 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ÇANK-ESAT ",
+        "NO": 22,
+        "KOD": 137,
+        "APT": "Piraye Apt. ",
+        "CAD-SOK": "Tahran Cad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86466717720032,
+          39.90279831393826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "NO": 76,
+        "KOD": 22,
+        "CAD-SOK": "19. Sok. (60.Sok.)",
+        "APT": "(-)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82177329063415,
+          39.92369224734411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "NO": 82,
+        "KOD": 117,
+        "CAD-SOK": "15. Sok. (75. Sok.)",
+        "APT": "Özlem Apt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81814694404602,
+          39.92105514093252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Billur Sok.",
+        "NO": 11,
+        "APT": "Ay Apt.",
+        "KOD": 56,
+        "NOT": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86294788122177,
+          39.9037427519131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Esat Cad.",
+        "NO": 54,
+        "APT": "Azim Apt.",
+        "KOD": 245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86112129688263,
+          39.910546847268606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "MALTEPE",
+        "CAD-SOK": "Onur Sok. ",
+        "NO": 66,
+        "APT": "Hanımeli",
+        "KOD": 74,
+        "NOT": "Sanırım alttaki apt. Kontrol gerekiyor. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.843011021614075,
+          39.931212173934476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ANITTEPE",
+        "CAD-SOK": "Turgut Reis Cad.",
+        "NO": 38,
+        "APT": "Şenler Apt.",
+        "KOD": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.839234471321106,
+          39.93090365927995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "Taşkent Cad.",
+        "NO": 76,
+        "APT": "Huzur Apt.",
+        "KOD": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.830045223236084,
+          39.924914085929274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Kennedy Cad.",
+        "NO": 134,
+        "APT": "(-)",
+        "KOD": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86639451980591,
+          39.900205672188335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Billur Sok.",
+        "NO": 3,
+        "APT": "Onlar Apt.",
+        "KOD": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.862320244312286,
+          39.904841493435825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "28.Sok.",
+        "NO": 12,
+        "APT": "(-)",
+        "KOD": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81688094139099,
+          39.92460554288992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "75. Sok.",
+        "NO": 56,
+        "APT": "(-)",
+        "KOD": 81,
+        "NOT": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83016324043273,
+          39.92010065616914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "53. Sok.",
+        "NO": 29,
+        "APT": "(-)",
+        "KOD": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.830270528793335,
+          39.929451564964936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "KURTULUŞ",
+        "CAD-SOK": "Ziya Gökalp Cad.",
+        "NO": 34,
+        "APT": "(-)",
+        "KOD": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86908209323883,
+          39.92812285111062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "MALTEPE",
+        "CAD-SOK": "Bitiştiren Sok.",
+        "NO": 1,
+        "APT": "(-)",
+        "KOD": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84277230501175,
+          39.93083989941129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Farabi Sok.",
+        "NO": 24,
+        "Apt.": "",
+        "KOD": 86,
+        "APT": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.854962944984436,
+          39.896398837898246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Alaçam Sok.",
+        "NO": 24,
+        "APT": "(-)",
+        "KOD": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85478055477142,
+          39.89609428201949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Bardacık Sok. ",
+        "NO": 88,
+        "APT": "Derya Apt.",
+        "KOD": 180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86507487297058,
+          39.90907786180775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Refik Belendir Sok.",
+        "NO": 6,
+        "APT": "Yıltor Apt.",
+        "KOD": 211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84935712814331,
+          39.897057332468854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "24.Sok.",
+        "NO": 20,
+        "APT": "(-)",
+        "KOD": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82016396522522,
+          39.92611533358392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "Bişkek Cad.",
+        "NO": 20,
+        "APT": "(-)",
+        "KOD": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.817749977111816,
+          39.92482358011518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "18. Sok.",
+        "NO": 24,
+        "APT": "Şen",
+        "KOD": 176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81993865966797,
+          39.92102222788632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "18. Sok.",
+        "NO": 26,
+        "APT": "Yuvam Apt.",
+        "KOD": 177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81993865966797,
+          39.920939945201546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "Bişkek Cad.",
+        "NO": 177,
+        "APT": "(-)",
+        "KOD": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81772047281265,
+          39.919802376952056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ÇANK-ESAT ",
+        "NO": 22,
+        "KOD": 137,
+        "APT": "Piraye Apt. ",
+        "CAD-SOK": "Tahran Cad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86466717720032,
+          39.90279831393826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "NO": 76,
+        "KOD": 22,
+        "CAD-SOK": "19. Sok. (60.Sok.)",
+        "APT": "(-)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82177329063415,
+          39.92369224734411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "NO": 82,
+        "KOD": 117,
+        "CAD-SOK": "15. Sok. (75. Sok.)",
+        "APT": "Özlem Apt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81814694404602,
+          39.92105514093252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Billur Sok.",
+        "NO": 11,
+        "APT": "Ay Apt.",
+        "KOD": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86294788122177,
+          39.9037427519131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Esat Cad.",
+        "NO": 54,
+        "APT": "Azim Apt.",
+        "KOD": 245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86112129688263,
+          39.910546847268606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "MALTEPE",
+        "CAD-SOK": "Onur Sok. ",
+        "NO": 66,
+        "APT": "Hanımeli",
+        "KOD": 74,
+        "NOT": "Sanırım alttaki apt. Kontrol gerekiyor. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.843011021614075,
+          39.931212173934476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ANITTEPE",
+        "CAD-SOK": "Turgut Reis Cad.",
+        "NO": 38,
+        "APT": "Şenler Apt.",
+        "KOD": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.839234471321106,
+          39.93090365927995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "Taşkent Cad.",
+        "NO": 76,
+        "APT": "Huzur Apt.",
+        "KOD": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.830045223236084,
+          39.924914085929274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Kennedy Cad.",
+        "NO": 134,
+        "APT": "(-)",
+        "KOD": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86639451980591,
+          39.900205672188335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Billur Sok.",
+        "NO": 3,
+        "APT": "Onlar Apt.",
+        "KOD": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.862320244312286,
+          39.904841493435825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "28.Sok.",
+        "NO": 12,
+        "APT": "(-)",
+        "KOD": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81688094139099,
+          39.92460554288992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "75. Sok.",
+        "NO": 56,
+        "APT": "(-)",
+        "KOD": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83016324043273,
+          39.92010065616914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "53. Sok.",
+        "NO": 29,
+        "APT": "(-)",
+        "KOD": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.830270528793335,
+          39.929451564964936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "KURTULUŞ",
+        "CAD-SOK": "Ziya Gökalp Cad.",
+        "NO": 34,
+        "APT": "(-)",
+        "KOD": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86908209323883,
+          39.92812285111062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "MALTEPE",
+        "CAD-SOK": "Bitiştiren Sok.",
+        "NO": 1,
+        "APT": "(-)",
+        "KOD": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84277230501175,
+          39.93083989941129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Farabi Sok.",
+        "NO": 24,
+        "Apt.": "",
+        "KOD": 86,
+        "APT": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.854962944984436,
+          39.896398837898246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Alaçam Sok.",
+        "NO": 24,
+        "APT": "(-)",
+        "KOD": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85478055477142,
+          39.89609428201949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Bardacık Sok. ",
+        "NO": 88,
+        "APT": "Derya Apt.",
+        "KOD": 180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86507487297058,
+          39.90907786180775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Refik Belendir Sok.",
+        "NO": 6,
+        "APT": "Yıltor Apt.",
+        "KOD": 211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84935712814331,
+          39.897057332468854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "24.Sok.",
+        "NO": 20,
+        "APT": "(-)",
+        "KOD": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82016396522522,
+          39.92611533358392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "Bişkek Cad.",
+        "NO": 20,
+        "APT": "(-)",
+        "KOD": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.817749977111816,
+          39.92482358011518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "18. Sok.",
+        "NO": 24,
+        "APT": "Şen",
+        "KOD": 176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81993865966797,
+          39.92102222788632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "18. Sok.",
+        "NO": 26,
+        "APT": "Yuvam Apt.",
+        "KOD": 177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81993865966797,
+          39.920939945201546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "Bişkek Cad.",
+        "NO": 177,
+        "APT": "(-)",
+        "KOD": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81772047281265,
+          39.919802376952056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "KIZILAY (MALTEPE OLABİLİR.)",
+        "CAD-SOK": "Neyzen Tevfik Sok.",
+        "NO": 20,
+        "APT": "(-)",
+        "KOD": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.846535444259644,
+          39.923622309795626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "66. Sok.",
+        "NO": 31,
+        "APT": "Duvak Apt.",
+        "KOD": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.825796604156494,
+          39.91887873168737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "54. Cad.",
+        "NO": 48,
+        "APT": "(-)",
+        "KOD": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82895088195801,
+          39.92494699710473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "Akdeniz Cad.",
+        "NO": 10,
+        "APT": "Ocak Apt. ",
+        "KOD": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83389151096344,
+          39.92062727009769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "14. Sok (74. Sok.)",
+        "NO": 6,
+        "APT": "Hanımeli Apt.",
+        "CODE": "",
+        "KOD": 183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.821789383888245,
+          39.92193967312396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "14. Sok. (74. Sok.9",
+        "NO": 4,
+        "APT": " Begüm Apt",
+        "KOD": 184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82197177410126,
+          39.92194790127676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Hoşdere Cad.",
+        "NO": 1,
+        "APT": "Nisan Apt.",
+        "KOD": 219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84868657588959,
+          39.89666635208064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Tahran Cad.",
+        "NO": 29,
+        "APT": "Bahar Apt. ",
+        "KOD": 147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86690950393677,
+          39.9047735941896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "19. Sok (74. Sok.)",
+        "NO": 10,
+        "APT": "(-)",
+        "KOD": 182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82140851020813,
+          39.92190676050293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Güniz Sok.",
+        "NO": 36,
+        "APT": "Demet Apt.",
+        "KOD": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86308467388153,
+          39.902106952396736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "KURTULUŞ",
+        "CAD-SOK": "Servi Sok.",
+        "NO": 13,
+        "APT": "Öztürk Apt.",
+        "KOD": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.86517679691315,
+          39.92421883365043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "ANITTEPE",
+        "CAD-SOK": "Turgut Reis Cad.",
+        "NO": 4,
+        "APT": "Barbaros Apt.",
+        "KOD": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83982992172241,
+          39.930331875110205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "A.AYRANCI",
+        "CAD-SOK": "Paris Cad.",
+        "NO": 24,
+        "APT": "(-)",
+        "KOD": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85454452037811,
+          39.90818904858585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "76. Sok.",
+        "NO": 46,
+        "APT": "(-)",
+        "KOD": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8307318687439,
+          39.92049973115851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "72. Sok.",
+        "NO": 3,
+        "APT": "Uğur Apt.",
+        "KOD": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.82722353935242,
+          39.92055732941852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "BÖLGE": "EMEK",
+        "CAD-SOK": "18. Sok (72. Sok.9",
+        "NO": 30,
+        "APT": "Ufuk Apt.",
+        "KOD": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.81992256641388,
+          39.92075069465136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "BÖLGE": "BAHÇELİ",
+        "CAD-SOK": "53. Sok (5. Sok.)",
+        "NO": 52,
+        "APT": "Dörtler Apt.",
+        "KOD": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83065676689147,
+          39.92656373912112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "BÖLGE": "ANITTEPE",
+        "CAD-SOK": "Işık Sok.",
+        "NO": 10,
+        "APT": "(-)",
+        "KOD": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.839025259017944,
+          39.93219118456382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "BÖLGE": "KIZILAY",
+        "CAD-SOK": "Necatibey Cad.",
+        "NO": 80,
+        "APT": "Kırmacı Apt.",
+        "KOD": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8471764922142,
+          39.921945844238664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "BÖLGE": "MALTEPE",
+        "CAD-SOK": "Turgut Reis Cad.",
+        "NO": 59,
+        "APT": "Yuvam Apt.",
+        "KOD": 138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84079551696777,
+          39.92999661814194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "BÖLGE": "ESAT",
+        "CAD-SOK": "Tahran Cad.",
+        "NO": 9,
+        "APT": "(-)",
+        "KOD": 133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.863497734069824,
+          39.902176911917586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BÖLGE": "",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.81933784484863,
+            39.93132735238237
+          ],
+          [
+            32.81564712524414,
+            39.92685170443116
+          ],
+          [
+            32.81444549560547,
+            39.92382389430036
+          ],
+          [
+            32.813758850097656,
+            39.91862364705806
+          ],
+          [
+            32.81435966491699,
+            39.91368633803287
+          ],
+          [
+            32.81444549560547,
+            39.912830501606656
+          ],
+          [
+            32.82461643218994,
+            39.91510173634655
+          ],
+          [
+            32.828779220581055,
+            39.91602337533778
+          ],
+          [
+            32.828264236450195,
+            39.9171424917246
+          ],
+          [
+            32.8355598449707,
+            39.92132255884663
+          ],
+          [
+            32.8331995010376,
+            39.92369224734411
+          ],
+          [
+            32.829337120056145,
+            39.9327423860677
+          ],
+          [
+            32.828006744384766,
+            39.93247912620168
+          ],
+          [
+            32.82431602478027,
+            39.932874015621
+          ],
+          [
+            32.82023906707764,
+            39.93178806423581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BÖLGE": "",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.83723354339599,
+              39.934980054046335
+            ],
+            [
+              32.837276458740234,
+              39.934980054046335
+            ],
+            [
+              32.837276458740234,
+              39.934980054046335
+            ],
+            [
+              32.83723354339599,
+              39.934980054046335
+            ],
+            [
+              32.83723354339599,
+              39.934980054046335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.83680438995361,
+              39.935045866702914
+            ],
+            [
+              32.83680438995361,
+              39.935045866702914
+            ],
+            [
+              32.83684730529785,
+              39.935045866702914
+            ],
+            [
+              32.83684730529785,
+              39.935045866702914
+            ],
+            [
+              32.83680438995361,
+              39.935045866702914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BÖLGE": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.83655762672424,
+              39.93493892110384
+            ],
+            [
+              32.836568355560296,
+              39.93493892110384
+            ],
+            [
+              32.836568355560296,
+              39.93493892110384
+            ],
+            [
+              32.83655762672424,
+              39.93493892110384
+            ],
+            [
+              32.83655762672424,
+              39.93493892110384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Apt.": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.83646106719971,
+              39.93501296038254
+            ],
+            [
+              32.83646106719971,
+              39.93501296038254
+            ],
+            [
+              32.83646106719971,
+              39.93501296038254
+            ],
+            [
+              32.83646106719971,
+              39.93501296038254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.83643960952759,
+              39.93493069451237
+            ],
+            [
+              32.830774784088135,
+              39.93320308839675
+            ],
+            [
+              32.831268310546875,
+              39.9326436637366
+            ],
+            [
+              32.83071041107178,
+              39.93247912620168
+            ],
+            [
+              32.833006381988525,
+              39.92964901869265
+            ],
+            [
+              32.83575296401977,
+              39.93076791239144
+            ],
+            [
+              32.8371262550354,
+              39.93183742603619
+            ],
+            [
+              32.83738374710083,
+              39.93285756194069
+            ],
+            [
+              32.837276458740234,
+              39.93447000381209
+            ],
+            [
+              32.83643960952759,
+              39.93493069451237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.83839225769043,
+              39.9345851767779
+            ],
+            [
+              32.83843517303467,
+              39.9345851767779
+            ],
+            [
+              32.83843517303467,
+              39.9345851767779
+            ],
+            [
+              32.83839225769043,
+              39.9345851767779
+            ],
+            [
+              32.83839225769043,
+              39.9345851767779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.83839225769043,
+              39.9345851767779
+            ],
+            [
+              32.837491035461426,
+              39.934058670209254
+            ],
+            [
+              32.83723354339599,
+              39.9316564325941
+            ],
+            [
+              32.83963680267334,
+              39.929451564964936
+            ],
+            [
+              32.84092426300049,
+              39.92727953636944
+            ],
+            [
+              32.84182548522949,
+              39.92477832716325
+            ],
+            [
+              32.84019470214843,
+              39.924350479594196
+            ],
+            [
+              32.8375768661499,
+              39.92234285144796
+            ],
+            [
+              32.839765548706055,
+              39.920368077810835
+            ],
+            [
+              32.84319877624512,
+              39.92224411411874
+            ],
+            [
+              32.846031188964844,
+              39.919413583470345
+            ],
+            [
+              32.84718990325928,
+              39.92161877439387
+            ],
+            [
+              32.84903526306152,
+              39.92365933556547
+            ],
+            [
+              32.84706115722656,
+              39.92138838463453
+            ],
+            [
+              32.848520278930664,
+              39.92091114623852
+            ],
+            [
+              32.85060167312622,
+              39.920006029799595
+            ],
+            [
+              32.852253913879395,
+              39.91926547108715
+            ],
+            [
+              32.85313367843628,
+              39.92091114623852
+            ],
+            [
+              32.84837007522583,
+              39.92416946635627
+            ],
+            [
+              32.8462028503418,
+              39.92859592556327
+            ],
+            [
+              32.84440040588379,
+              39.931064087073835
+            ],
+            [
+              32.842748165130615,
+              39.93233104208209
+            ],
+            [
+              32.84040927886963,
+              39.933581520132925
+            ],
+            [
+              32.83839225769043,
+              39.9345851767779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.863712310791016,
+              39.922820079865346
+            ],
+            [
+              32.863261699676514,
+              39.92105925506222
+            ],
+            [
+              32.86407709121704,
+              39.920187054044504
+            ],
+            [
+              32.86562204360962,
+              39.919216100221554
+            ],
+            [
+              32.86804676055908,
+              39.9181134749489
+            ],
+            [
+              32.86911964416504,
+              39.91760329903903
+            ],
+            [
+              32.87032127380371,
+              39.91722477897245
+            ],
+            [
+              32.87225246429443,
+              39.917290608699524
+            ],
+            [
+              32.87381887435913,
+              39.91715894918206
+            ],
+            [
+              32.87506341934204,
+              39.91727415127369
+            ],
+            [
+              32.87506341934204,
+              39.91768558573318
+            ],
+            [
+              32.8750205039978,
+              39.91817930382173
+            ],
+            [
+              32.87476301193237,
+              39.91845907582521
+            ],
+            [
+              32.87390470504761,
+              39.918278047012286
+            ],
+            [
+              32.87261724472046,
+              39.91862364705806
+            ],
+            [
+              32.8715443611145,
+              39.918607189952574
+            ],
+            [
+              32.87152290344238,
+              39.92041744784589
+            ],
+            [
+              32.8725528717041,
+              39.92109216809064
+            ],
+            [
+              32.87291765213013,
+              39.92140484107162
+            ],
+            [
+              32.872231006622314,
+              39.92186561970434
+            ],
+            [
+              32.87263870239258,
+              39.922704887103635
+            ],
+            [
+              32.87332534790039,
+              39.923132744955986
+            ],
+            [
+              32.8740119934082,
+              39.923922629351466
+            ],
+            [
+              32.87341117858887,
+              39.9244327581805
+            ],
+            [
+              32.87392616271973,
+              39.92472896027251
+            ],
+            [
+              32.874741554260254,
+              39.925420093503746
+            ],
+            [
+              32.87431240081787,
+              39.92538718255568
+            ],
+            [
+              32.87390470504761,
+              39.92551882625294
+            ],
+            [
+              32.87328243255615,
+              39.925979577199904
+            ],
+            [
+              32.87233829498291,
+              39.92704916565799
+            ],
+            [
+              32.870707511901855,
+              39.929023746600976
+            ],
+            [
+              32.867317199707024,
+              39.9278390048698
+            ],
+            [
+              32.86683440208435,
+              39.92730421889968
+            ],
+            [
+              32.86585807800293,
+              39.92672006329687
+            ],
+            [
+              32.86229610443115,
+              39.92408718745354
+            ],
+            [
+              32.863712310791016,
+              39.922820079865346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BÖLGE": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.8621244430542,
+              39.92405427586476
+            ],
+            [
+              32.858991622924805,
+              39.92701625549306
+            ],
+            [
+              32.856717109680176,
+              39.92764154592116
+            ],
+            [
+              32.85564422607421,
+              39.92665424263481
+            ],
+            [
+              32.85491466522217,
+              39.928826291069655
+            ],
+            [
+              32.854228019714355,
+              39.92879338175907
+            ],
+            [
+              32.85306930541992,
+              39.92833264974959
+            ],
+            [
+              32.8496789932251,
+              39.92721371624528
+            ],
+            [
+              32.8476619720459,
+              39.92586438975386
+            ],
+            [
+              32.84839153289795,
+              39.924350479594196
+            ],
+            [
+              32.852983474731445,
+              39.92105925506222
+            ],
+            [
+              32.853970527648926,
+              39.92076303709448
+            ],
+            [
+              32.85916328430176,
+              39.92161877439387
+            ],
+            [
+              32.8621244430542,
+              39.92405427586476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.82938003540039,
+              39.93290692296977
+            ],
+            [
+              32.82787799835205,
+              39.93254494126312
+            ],
+            [
+              32.82392978668213,
+              39.93297273761985
+            ],
+            [
+              32.81916618347168,
+              39.931458984656906
+            ],
+            [
+              32.81538963317871,
+              39.926522601120816
+            ],
+            [
+              32.81423091888428,
+              39.9228036237684
+            ],
+            [
+              32.81367301940918,
+              39.91901861640325
+            ],
+            [
+              32.81444549560547,
+              39.91279758460745
+            ],
+            [
+              32.82191276550293,
+              39.914476331396216
+            ],
+            [
+              32.82444477081299,
+              39.91513465223839
+            ],
+            [
+              32.824745178222656,
+              39.9174387253541
+            ],
+            [
+              32.828307151794434,
+              39.91701083192239
+            ],
+            [
+              32.83538818359375,
+              39.92132255884663
+            ],
+            [
+              32.833027839660645,
+              39.9238568059999
+            ],
+            [
+              32.82938003540039,
+              39.93290692296977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BÖLGE": "",
+        "CAD-SOK": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.848219871520996,
+              39.886195479216596
+            ],
+            [
+              32.84607410430908,
+              39.884680692231335
+            ],
+            [
+              32.84646034240723,
+              39.88263896986263
+            ],
+            [
+              32.85165309906006,
+              39.88207913214082
+            ],
+            [
+              32.855472564697266,
+              39.88240844900134
+            ],
+            [
+              32.85791873931885,
+              39.883396390093075
+            ],
+            [
+              32.8595495223999,
+              39.884746553230976
+            ],
+            [
+              32.859721183776855,
+              39.88583325059091
+            ],
+            [
+              32.85912036895752,
+              39.88678821283955
+            ],
+            [
+              32.858991622924805,
+              39.888204166861755
+            ],
+            [
+              32.855815887451165,
+              39.885503950179555
+            ],
+            [
+              32.85418510437012,
+              39.88494413585031
+            ],
+            [
+              32.85191059112549,
+              39.88491120545329
+            ],
+            [
+              32.849249839782715,
+              39.88556981038836
+            ],
+            [
+              32.848219871520996,
+              39.886195479216596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.85933494567871,
+              39.90071597768347
+            ],
+            [
+              32.85542964935303,
+              39.890410362517926
+            ],
+            [
+              32.856717109680176,
+              39.89004815616246
+            ],
+            [
+              32.858004570007324,
+              39.891925022904516
+            ],
+            [
+              32.859206199645996,
+              39.890970132211926
+            ],
+            [
+              32.86092281341553,
+              39.892418926663744
+            ],
+            [
+              32.860965728759766,
+              39.89370305978211
+            ],
+            [
+              32.86182403564453,
+              39.8959420035726
+            ],
+            [
+              32.861480712890625,
+              39.89755531478615
+            ],
+            [
+              32.85933494567871,
+              39.90071597768347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.85487174987793,
+              39.91046043723118
+            ],
+            [
+              32.85341262817383,
+              39.91055919155077
+            ],
+            [
+              32.852511405944824,
+              39.908254886997746
+            ],
+            [
+              32.85294055938721,
+              39.906180946626705
+            ],
+            [
+              32.852725982666016,
+              39.90502873040255
+            ],
+            [
+              32.84985065460205,
+              39.90509457185165
+            ],
+            [
+              32.84693241119384,
+              39.90539085758962
+            ],
+            [
+              32.845215797424316,
+              39.898905199066675
+            ],
+            [
+              32.846717834472656,
+              39.89870765668652
+            ],
+            [
+              32.84718990325928,
+              39.8980821020592
+            ],
+            [
+              32.84590244293213,
+              39.89623832888757
+            ],
+            [
+              32.847533226013184,
+              39.89548105053594
+            ],
+            [
+              32.851481437683105,
+              39.8953164237001
+            ],
+            [
+              32.85285472869872,
+              39.89564567697635
+            ],
+            [
+              32.853713035583496,
+              39.89620540391586
+            ],
+            [
+              32.853755950927734,
+              39.896567577734885
+            ],
+            [
+              32.85757541656494,
+              39.89666635208064
+            ],
+            [
+              32.85942077636718,
+              39.900748900488125
+            ],
+            [
+              32.85890579223633,
+              39.90088059154865
+            ],
+            [
+              32.85744667053223,
+              39.90120981809262
+            ],
+            [
+              32.85710334777832,
+              39.901802421885606
+            ],
+            [
+              32.854828834533684,
+              39.90173657727282
+            ],
+            [
+              32.85457134246826,
+              39.90269131796546
+            ],
+            [
+              32.85555839538574,
+              39.903481438133426
+            ],
+            [
+              32.854743003845215,
+              39.908485320941146
+            ],
+            [
+              32.855472564697266,
+              39.90858407810818
+            ],
+            [
+              32.85487174987793,
+              39.91046043723118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.85761833190917,
+              39.89663342731455
+            ],
+            [
+              32.853713035583496,
+              39.89653465292133
+            ],
+            [
+              32.853713035583496,
+              39.89610662890577
+            ],
+            [
+              32.851738929748535,
+              39.89534934909889
+            ],
+            [
+              32.84757614135742,
+              39.8954481252004
+            ],
+            [
+              32.84581661224365,
+              39.89620540391586
+            ],
+            [
+              32.845215797424316,
+              39.89403232080897
+            ],
+            [
+              32.84465789794922,
+              39.89248478022941
+            ],
+            [
+              32.84517288208008,
+              39.891562824552544
+            ],
+            [
+              32.84504413604736,
+              39.890410362517926
+            ],
+            [
+              32.845473289489746,
+              39.8869199307265
+            ],
+            [
+              32.846503257751465,
+              39.88603083007855
+            ],
+            [
+              32.84706115722656,
+              39.88553688029186
+            ],
+            [
+              32.84830570220947,
+              39.88632719824236
+            ],
+            [
+              32.850494384765625,
+              39.885273438950485
+            ],
+            [
+              32.852511405944824,
+              39.88504292694643
+            ],
+            [
+              32.85487174987793,
+              39.88530636917352
+            ],
+            [
+              32.85542964935303,
+              39.885503950179555
+            ],
+            [
+              32.85487174987793,
+              39.88866516883713
+            ],
+            [
+              32.85534381866455,
+              39.89044329027351
+            ],
+            [
+              32.85761833190917,
+              39.89663342731455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.866458892822266,
+              39.8928634370042
+            ],
+            [
+              32.867960929870605,
+              39.89304453298312
+            ],
+            [
+              32.87014961242676,
+              39.89307745947335
+            ],
+            [
+              32.871437072753906,
+              39.89169453326561
+            ],
+            [
+              32.87229537963867,
+              39.894789615168015
+            ],
+            [
+              32.87328243255615,
+              39.89630417878359
+            ],
+            [
+              32.87362575531006,
+              39.8974894660923
+            ],
+            [
+              32.872982025146484,
+              39.897621163416744
+            ],
+            [
+              32.87190914154053,
+              39.897127297145154
+            ],
+            [
+              32.87139415740967,
+              39.897851633125526
+            ],
+            [
+              32.874956130981445,
+              39.90005751826824
+            ],
+            [
+              32.876458168029785,
+              39.89900397004321
+            ],
+            [
+              32.875685691833496,
+              39.89946489938474
+            ],
+            [
+              32.87581443786621,
+              39.90015628758386
+            ],
+            [
+              32.87628650665283,
+              39.902362098539705
+            ],
+            [
+              32.87611484527588,
+              39.90295469236715
+            ],
+            [
+              32.8750205039978,
+              39.903810652180915
+            ],
+            [
+              32.872445583343506,
+              39.905917584626735
+            ],
+            [
+              32.87160873413086,
+              39.90743190230095
+            ],
+            [
+              32.870965003967285,
+              39.90823842740072
+            ],
+            [
+              32.87092208862305,
+              39.909209536859834
+            ],
+            [
+              32.870686054229736,
+              39.91092128950456
+            ],
+            [
+              32.87032127380371,
+              39.91212278263797
+            ],
+            [
+              32.868304252624505,
+              39.91467382831327
+            ],
+            [
+              32.86607265472412,
+              39.91627024081872
+            ],
+            [
+              32.86517143249512,
+              39.91737289576941
+            ],
+            [
+              32.864506244659424,
+              39.91844261868018
+            ],
+            [
+              32.863991260528564,
+              39.91857427572974
+            ],
+            [
+              32.86293983459473,
+              39.9183767900605
+            ],
+            [
+              32.86311149597168,
+              39.917043746896674
+            ],
+            [
+              32.86208152770996,
+              39.91520048397456
+            ],
+            [
+              32.862510681152344,
+              39.91375217116118
+            ],
+            [
+              32.86227464675903,
+              39.91121755004303
+            ],
+            [
+              32.862060070037835,
+              39.910427519093005
+            ],
+            [
+              32.86193132400513,
+              39.90948934550516
+            ],
+            [
+              32.86152362823486,
+              39.907859855577165
+            ],
+            [
+              32.860450744628906,
+              39.904929968110224
+            ],
+            [
+              32.86019325256348,
+              39.90292177062233
+            ],
+            [
+              32.86092281341553,
+              39.90219748823364
+            ],
+            [
+              32.861952781677246,
+              39.90081474605002
+            ],
+            [
+              32.86283254623413,
+              39.899283820370314
+            ],
+            [
+              32.86328315734863,
+              39.897868095217895
+            ],
+            [
+              32.8641414642334,
+              39.893554891803966
+            ],
+            [
+              32.86487102508545,
+              39.89641941594935
+            ],
+            [
+              32.865750789642334,
+              39.89683097567387
+            ],
+            [
+              32.866458892822266,
+              39.8928634370042
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.86216735839844,
+              39.92405427586476
+            ],
+            [
+              32.85912036895752,
+              39.92158586161857
+            ],
+            [
+              32.853970527648926,
+              39.92063138425305
+            ],
+            [
+              32.854270935058594,
+              39.91358758822178
+            ],
+            [
+              32.85633087158203,
+              39.90891326763669
+            ],
+            [
+              32.858948707580566,
+              39.903250987358966
+            ],
+            [
+              32.85937786102295,
+              39.90219748823364
+            ],
+            [
+              32.860579490661614,
+              39.90252670845034
+            ],
+            [
+              32.86015033721924,
+              39.9029876140962
+            ],
+            [
+              32.86036491394043,
+              39.90496288889016
+            ],
+            [
+              32.861952781677246,
+              39.910427519093005
+            ],
+            [
+              32.86238193511962,
+              39.913818004226215
+            ],
+            [
+              32.86182403564453,
+              39.91526631564748
+            ],
+            [
+              32.86293983459473,
+              39.91717540663561
+            ],
+            [
+              32.86289691925049,
+              39.91924901413591
+            ],
+            [
+              32.863497734069824,
+              39.9228036237684
+            ],
+            [
+              32.86216735839844,
+              39.92405427586476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "CAD-SOK": "Ahmet Rasim Sok.",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 8,
+        "KOD": 1,
+        "APT": "Huzur Apt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.854464054107666,
+          39.883651605894826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 12,
+        "KOD": 2,
+        "APT": "Cumhuriyet Gazetesi",
+        "CAD-SOK": "Ahmet Rasim Sok.",
+        "NOT": "Düz-Yatay (Derinlik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.853970527648926,
+          39.883618674877006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "BÖLGE": "ÇANKAYA",
+        "KOD": 3,
+        "NO": 10,
+        "APT": "Goncagül Apt.",
+        "CAD-SOK": "Ahmet Rasim Sok.",
+        "NOT": "Tam Daire ve Düz (En klasik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85425215959549,
+          39.88363102401053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 22,
+        "KOD": 4,
+        "APT": "(-)",
+        "CAD-SOK": "Ahmet Rasim Sok.",
+        "NOT": "Düz-Yatay-Dikey-Karma (Sarkıtlı)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85276085138321,
+          39.883558987366904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 21,
+        "KOD": 5,
+        "APT": "(-)",
+        "CAD-SOK": "Ahmet Rasim Sok.",
+        "NOT": "Düz-Yatay (Kalınlı İnceli)",
+        "Apt.": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85133123397827,
+          39.88317822099332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "BÖLGE": "ÇANKAYA",
+        "NO": "42 ",
+        "KOD": 6,
+        "APT": "(-)",
+        "CAD-SOK": "Ahmet Mithat Efendi Sok. ",
+        "NOT": "Düz-Dik-Kalın",
+        "Apt.": "tekrar bak 3 tane 6 var"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.851371467113495,
+          39.88439460777989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "Apt.": "",
+        "KOD": 7,
+        "CAD-SOK": "Halide Nusret Zorlutuna Sok",
+        "NOT": "Farklı Renk",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 6,
+        "APT": "(-)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8519669175148,
+          39.88427523405869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 15,
+        "KOD": 8,
+        "APT": "(-)",
+        "CAD-SOK": "Ahmet Mithat Efendi Sok. ",
+        "NOT": "Kıvrımlı (Karma)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85362184047699,
+          39.88386977348832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOT": "Düz-Yatay-Kalınlı İnceli",
+        "CAD-SOK": "Ahmet Mithat Efendi Sok. ",
+        "KOD": 9,
+        "NO": 13,
+        "APT": "(-)",
+        "BÖLGE": "ÇANKAYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.853831052780144,
+          39.88389652984349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NO": 9,
+        "KOD": 10,
+        "APT": "(-)",
+        "CAD-SOK": "Ahmet Mithat Efendi Sok. ",
+        "BÖLGE": "ÇANKAYA",
+        "NOT": "Üç Boyut (Üçgen Çıkıntı_Kısmi_Saksılık)",
+        "CODE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85420924425125,
+          39.88392946072785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOT": "Düz-Yatay-Karma (Homojen) ",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 192,
+        "KOD": 11,
+        "APT": "Yıldız Apt. ",
+        "CAD-SOK": "Hoşdere Cad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85033881664276,
+          39.88499764771172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOT": "dikey uzeri yatay cizgiler (Dikey üzeri Yatay)",
+        "BÖLGE": "ÇANKAYA",
+        "KOD": 12,
+        "APT": "Kadem Apt. ",
+        "NO": 165,
+        "CAD-SOK": "Hoşdere Cad."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84885823726654,
+          39.88615843319502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOT": "Düz-Yatay-Dikey-Karma (Yatay_cerceve ici dikey)",
+        "CAD-SOK": "Hoşdere Cad.",
+        "KOD": 13,
+        "APT": "İlka Apt.",
+        "NO": 199,
+        "BÖLGE": "ÇANKAYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8538578748703,
+          39.88509232244112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOT": "Kare (Üstte 2 sıra kare)",
+        "CAD-SOK": "Piyade Sok.",
+        "NO": 31,
+        "KOD": 14,
+        "APT": "(-)",
+        "BÖLGE": "ÇANKAYA",
+        "Apt.": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85470008850098,
+          39.88594850536123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOT": "Düz Yatay (İkili)",
+        "CAD-SOK": "Piyade Sok.",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 108,
+        "KOD": 15,
+        "APT": "Burç"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85498976707458,
+          39.88583325059091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "NOT": "Daire (İç içe tek boş circle)",
+        "CAD-SOK": "Piyade Sok.",
+        "BÖLGE": "ÇANKAYA",
+        "KOD": 16,
+        "APT": "Buket",
+        "Apt.": "Piyade olmayabilir. 101 değil 10 olabilir. ",
+        "NO": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85281717777252,
+          39.88760321320355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "NOT": "Düz-Yatay (Kalınlı İnceli)",
+        "BÖLGE": "ÇANKAYA",
+        "NO": 92,
+        "KOD": 18,
+        "CAD-SOK": "Cinnah Cad.",
+        "APT": "(-)",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85460352897644,
+          39.88735212826548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ÇANKAYA",
+        "KOD": 19,
+        "NOT": "Düz-Yatay-Dikey-Karma (Homojen)",
+        "CAD-SOK": "Cinnah Cad.",
+        "APT": "(-)",
+        "NO": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8546142578125,
+          39.887195714232654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "NO": 3,
+        "KOD": 17,
+        "CAD-SOK": "Hava Sok.",
+        "APT": "Mutlu Apt.",
+        "BÖLGE": "ÇANKAYA",
+        "NOT": "Daire (İç içe tek boş circle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.853755950927734,
+          39.887660839125154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "KOD": 20,
+        "CAD-SOK": "Cemal Nadir Sok.",
+        "BÖLGE": "ÇANKAYA",
+        "NOT": "Art Nouveau (Daire içi iki çizgi)",
+        "APT": "(-)",
+        "NO": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85737693309783,
+          39.8839603334176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "KOD": 21,
+        "CAD-SOK": "Cemal Nadir Sok.",
+        "BÖLGE": "ÇANKAYA",
+        "NOT": "Art Nouveau (Daire içi iki çizgi)",
+        "NO": 5,
+        "APT": "(-)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.857232093811035,
+          39.8838862389389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "KOD": 22,
+        "CAD-SOK": "Cemal Nadir Sok.",
+        "NOT": "Düz-Yatay (Kalınlı İnceli)",
+        "NO": 3,
+        "APT": "(-)",
+        "BÖLGE": "ÇANKAYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85707652568817,
+          39.88381626074662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "KOD": 23,
+        "CAD-SOK": "Ebu Ziya Tevfik Sok.",
+        "APT": "Libya Okulu",
+        "NO": "5?",
+        "BÖLGE": "ÇANKAYA",
+        "NOT": "Daire (İç içe boş circle)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85685122013092,
+          39.884462527218155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "KOD": 24,
+        "NO": "?",
+        "APT": "(-)",
+        "BÖLGE": "ÇANKAYA",
+        "CAD-SOK": "Ebu Ziya Tevfik Sok.",
+        "NOT": "Kıvrımlı (Dalgalar-Düz-Dikey)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85716235637665,
+          39.88461483116844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "KOD": 25,
+        "BÖLGE": "ÇANKAYA",
+        "NO": 39,
+        "APT": "Bağlar ??? Apt.",
+        "CAD-SOK": "Prof.Dr.Aziz Sancar Cad.",
+        "Apt.": "Fotoları bulamadım.",
+        "marker-symbol": "",
+        "NOT": "??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.858986258506775,
+          39.88735212826548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "KOD": 26,
+        "APT": "(-)",
+        "NO": 7,
+        "BÖLGE": "ÇANKAYA",
+        "CAD-SOK": "Abdullah Cevdet Sok. ",
+        "NOT": "Kare (Grid)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85658299922943,
+          39.885038810653604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ANITTEPE",
+        "NO": 35,
+        "KOD": 1,
+        "APT": "(-)",
+        "CAD-SOK": "Dögol Cad.",
+        "NOT": "",
+        "Apt.": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.832287549972534,
+          39.93340464469058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "BÖLGE": "ANITTEPE",
+        "NO": 2,
+        "KOD": 2,
+        "APT": "Meltem Apt. ",
+        "CAD-SOK": "Ören Sok. ",
+        "NOT": "",
+        "Apt.": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.833607196807854,
+          39.93379130204177
+        ]
+      }
+    }
+  ]
+}
